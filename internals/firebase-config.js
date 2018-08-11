@@ -1,5 +1,5 @@
 import admin from 'firebase-admin';
-import serviceAccount from '../serviceAccount';
+import serviceAccount from '../serviceAccount.json';
 
 let firestore = null;
 export function initializeFirebase() {
