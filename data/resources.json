@@ -261,7 +261,7 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "https://pbs.twimg.com/media/Di-HhAmV4AABcfu.jpg",
     "blocks": [
       {
         "title": "Organizer",
