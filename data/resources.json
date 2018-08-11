@@ -87,17 +87,17 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://gdg.ist/df18-sponsor",
           "newTab": true
         },
         {
           "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://gdg.ist/df18-sponsor",
           "newTab": true
         },
         {
           "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://gdg.ist/df18-sponsor",
           "newTab": true
         },
         {
@@ -167,7 +167,7 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFIST'16 featured videos",
+    "title": "DFIST'17 featured videos",
     "callToAction": {
       "label": "See all videos",
       "link": "https://www.youtube.com/watch?v=JNyfHOmQheA&list=PLSV3VvYZSJP1bJzotSmVwWj0XcwnMttAw"
@@ -204,7 +204,7 @@
     }
   },
   "galleryBlock": {
-    "title": "#DFIST16 highlights",
+    "title": "#DFIST17 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
