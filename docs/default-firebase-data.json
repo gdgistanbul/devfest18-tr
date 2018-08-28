@@ -890,7 +890,7 @@
     "regular" : true,
     "soldOut" : false,
     "starts" : "Sep 1",
-    "url" : "https://2event.com/events/1027108"
+    "url" : "commingsoon"
   }, {
     "available" : false,
     "currency" : "₺",
@@ -903,7 +903,7 @@
     "regular" : true,
     "soldOut" : false,
     "starts" : "Sep 1",
-    "url" : "https://2event.com/events/1027108"
+    "url" : "commingsoon"
   } ],
   "triggers" : {
     "images" : false
