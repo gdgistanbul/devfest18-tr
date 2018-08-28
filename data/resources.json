@@ -1,6 +1,6 @@
 {
   "title": "GDG DevFest Season 2018",
-  "description": "Istanbul’s Biggest Google Conference",
+  "description": "Get ready for a Uniq DevFest",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November 04, 2018",
@@ -102,7 +102,7 @@
         },
         {
           "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "url": "http://gdg.ist/dfist18-cfp",
           "newTab": true
         },
         {
