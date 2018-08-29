@@ -58,7 +58,7 @@ app.get('*', (req, res) => {
         // Reading about Vary header:
         //  https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Vary
         //  https://www.fastly.com/blog/best-practices-using-vary-header/
-        res.set('Cache-Control', 'public, max-age=300, s-maxage=600');
+        res.set('Cache-Control', 'public, max-age=0, s-maxage=0');
         res.set('Vary', 'User-Agent');
 
         res.send(body.toString());
