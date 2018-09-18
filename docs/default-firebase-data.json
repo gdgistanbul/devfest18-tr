@@ -3,20 +3,11 @@
     "c4p" : {
       "backgroundColor" : "#3647a5",
       "brief" : "GDG DevFest Istanbul was announced, for the sixth year in a row, the conference will bring together 1100 developers, managers and...",
-      "content" : "GDG DevFest Istanbul was announced, for the sixth year in a row, the conference will bring together 1100 developers, managers and entrepreneurs on November 4 to Istanbul. This year our team is doing big advancement in the content, we're building an extra stage to accommodate more visitors and provide fife fully independent tracks on Android, Firebase, Machine Learning, Google Cloud and Web topics. Our focus is the content. We’re looking for speakers like you, who are ready to rock the stage and deliver the best talk or workshop in the field.   <div layout horizontal center-justified> <a href=\"http://bit.ly/df17-c4p\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div> ## Why is it cool to speak at the DevFest? DevFest Istanbul is not an ordinary tech conference, besides selecting only the best speakers, we help them to succeed in delivering an exceptional quality talk on the stage. Here are few perks that all our speakers get: - **Expences covered**. Hotel for 2 nights, travel costs and entrance to exclusive dinner after DevFest are covered for all speakers. - **Professional video recording**.We work with experienced video production companies to create session recording of the best quality. Stage, screen, audio, all is recorded separately and combined later. Check the session videos from the last year. - **Exposure**. By being a speaker, you are proving your level of expertise to a potential business partners or employers. Your talk will be promoted in our online resources and recording published in YouTube channel with more than 35k views. - **Unique networking**. Being a speaker means you’ll have the unique chance to network with other speakers - the best experts in the industry. -- **Coaching**. We're in the same boat, after being selected as a speaker our program committee will help you to deliver the best talk possible. We provide information about the audience, presentation templates, feedback on the slides, all to help you to prepare. What are we looking for? We're looking for **experience-based talks**, the information that can not be found in the documentation or easily googled. We're looking for your stories, your struggles, research results and experiences with the frontier tools or technologies. This year we accept submissions in two formats: - 40 minutes sessions. - 2(or 3) hours workshops. ### Talks that will not pass initial review - Talks about a specific tool/library/project explaining how it works or how to use it. - Talks whose focus is pitching a company or project. It’s cool that you mention your company during the presentation, but it shouldn’t be the focus of the talk. - Recruitment talks to attract talent. We strongly recommend you check out speaking.io website from Zach Holman. It includes good tips and guidelines for speakers. ## Timeline **Call for Papers submission deadline is October 14, 2018.** Email organizers at devfest@gdgistanbul.com  <div layout horizontal center-justified> <a href=\"http://bit.ly/df17-c4p\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div>",
+      "content" : "GDG DevFest Istanbul was announced, for the sixth year in a row, the conference will bring together 1100 developers, managers and entrepreneurs on November 4 to Istanbul. This year our team is doing big advancement in the content, we're building an extra stage to accommodate more visitors and provide fife fully independent tracks on Android, Firebase, Machine Learning, Google Cloud and Web topics. Our focus is the content. We’re looking for speakers like you, who are ready to rock the stage and deliver the best talk or workshop in the field.   <div layout horizontal center-justified> <a href=\"http://gdg.ist/dfist18-cfp\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div> ## Why is it cool to speak at the DevFest? DevFest Istanbul is not an ordinary tech conference, besides selecting only the best speakers, we help them to succeed in delivering an exceptional quality talk on the stage. Here are few perks that all our speakers get: - **Expences covered**. Hotel for 2 nights, travel costs and entrance to exclusive dinner after DevFest are covered for all speakers. - **Professional video recording**.We work with experienced video production companies to create session recording of the best quality. Stage, screen, audio, all is recorded separately and combined later. Check the session videos from the last year. - **Exposure**. By being a speaker, you are proving your level of expertise to a potential business partners or employers. Your talk will be promoted in our online resources and recording published in YouTube channel with more than 35k views. - **Unique networking**. Being a speaker means you’ll have the unique chance to network with other speakers - the best experts in the industry. -- **Coaching**. We're in the same boat, after being selected as a speaker our program committee will help you to deliver the best talk possible. We provide information about the audience, presentation templates, feedback on the slides, all to help you to prepare. What are we looking for? We're looking for **experience-based talks**, the information that can not be found in the documentation or easily googled. We're looking for your stories, your struggles, research results and experiences with the frontier tools or technologies. This year we accept submissions in two formats: - 40 minutes sessions. - 2(or 3) hours workshops. ### Talks that will not pass initial review - Talks about a specific tool/library/project explaining how it works or how to use it. - Talks whose focus is pitching a company or project. It’s cool that you mention your company during the presentation, but it shouldn’t be the focus of the talk. - Recruitment talks to attract talent. We strongly recommend you check out speaking.io website from Zach Holman. It includes good tips and guidelines for speakers. ## Timeline **Call for Papers submission deadline is October 14, 2018.** Email organizers at devfest@gdgistanbul.com  <div layout horizontal center-justified> <a href=\"http://bit.ly/df17-c4p\" rel=\"noopener noreferrer\">   <paper-button primary>Submit a proposal</paper-button> </a> </div>",
       "image" : "/images/posts/c4p.jpg",
       "published" : "2017-02-12",
       "source" : "/data/posts/2017-02-12-c4p.md",
       "title" : "We're looking for speakers"
-    },
-    "thank-you" : {
-      "backgroundColor" : "#5a7785",
-      "brief" : "Our team wants to thank one more time our partners, who made GDG DevFest Ukraine 2016 possible...",
-      "content" : "We want to thank one more time our partners, who made [DevFest 2016](https://devfest.gdg.org.ua/) possible! THANK YOU for being creative and motivating our participants for new challenges, THANK YOU for your experiments and expertise during the insane 2 days of GDG DevFest Ukraine. We want to highlight the most interesting and catching moments that made our conference so special:  - Our general partner and our source of inspiration, [Google](https://www.google.com.ua/intl/en/about/),  motivated us to materialize some crazy experiments, like [Emotobooth](https://twitter.com/dfuabooth) and [AR Music Kit](https://www.androidexperiments.com/experiment/ar-music-kit)  <plastic-image srcset=\"/images/posts/thankyou_1.jpg\" lazy-load preload fade></plastic-image>  - [Intouch](http://www.intouchmena.com/), our Diamond partner, carried developers contest with magnifical prize fund of $2000  <plastic-image srcset=\"/images/posts/thankyou_2.jpg\" lazy-load preload fade></plastic-image>  - Weight research from [DataArt](http://dataart.ua/). Now we know that the biggest tech conference related to Google technologies in CEE accommodated almost 20 tons of geeks :D  <plastic-image srcset=\"/images/posts/thankyou_3.jpg\" lazy-load preload fade></plastic-image>  - Thanks to [N-iX](http://n-ix.com/) for bringing incredible HTC Vive VR experience to our house  <plastic-image srcset=\"/images/posts/thankyou_4.jpg\" lazy-load preload fade></plastic-image>   - Fresh mojito & delicious snacks from [CoreValue](http://www.corevalue.com.ua/). And even more - charges of all types, which saved a lot of devices and made possible more photos from DevFest  <plastic-image srcset=\"/images/posts/thankyou_5.jpg\" lazy-load preload fade></plastic-image>   - Big variety of different prizes from [GlobalLogic](http://www.globallogic.com/), all attendees were so excited trying to do all needed requirements (e.g. get as much likes in social networks as possible)  <plastic-image srcset=\"/images/posts/thankyou_6.jpg\" lazy-load preload fade></plastic-image>  - Flavored coffee and yaammmii cupcakes from [Wolters Kluwer](http://wolterskluwer.com/)  <plastic-image srcset=\"/images/posts/thankyou_7.jpg\" lazy-load preload fade></plastic-image>  - [Mirantis](https://www.mirantis.com/) raffled big variety of prizes  <plastic-image srcset=\"/images/posts/thankyou_8.jpg\" lazy-load preload fade></plastic-image>  - Our Platinum sponsor - [Zalando](https://tech.zalando.de/)  <plastic-image srcset=\"/images/posts/thankyou_9.jpg\" lazy-load preload fade></plastic-image>  - Our Platinum sponsor - [FM Standart](http://fm-standard.com/en) and [Design Proof](http://designprof.com.ua/)  <plastic-image srcset=\"/images/posts/thankyou_10.jpg\" style=\"width: calc(50% + 32px); display: inline-block;\" lazy-load preload fade></plastic-image> <plastic-image srcset=\"/images/posts/thankyou_11.jpg\" style=\"width: calc(50% + 32px); display: inline-block;\" lazy-load preload fade></plastic-image>  - Super robust Wi-Fi powered by our Gold partner - [Ruckus](https://www.ruckuswireless.com/). It was so good that our attendees were able to make live streams via Periscope  - [Ciklum](ttps://www.ciklum.com/) has raffled cool speakers and cups  <plastic-image srcset=\"/images/posts/thankyou_12.jpg\" lazy-load preload fade></plastic-image>  - Our Gold sponsor - [Sigma](http://sigma.software/)  <plastic-image srcset=\"/images/posts/thankyou_13.jpg\" lazy-load preload fade></plastic-image>  - [Shulga Massage](http://shulga-massage.com/) - heroes who have brought moments of real relax and peace in the center of Brownian motion of people  <plastic-image srcset=\"/images/posts/thankyou_14.jpg\" lazy-load preload fade></plastic-image>  Again, THANK YOU all, you are amazing! Hope you to join us next year!   With love, GDG DevFest Ukraine Team",
-      "image" : "/images/posts/thankyou_2.jpg",
-      "published" : "2016-09-29",
-      "source" : "/data/posts/2016-09-29-thank-you.md",
-      "title" : "Thank you all for your support"
     }
   },
   "gallery" : [
@@ -57,6 +48,13 @@
       "url" : "https://plus.google.com/102444623953913144164"
     } ],
     "title" : "Template Creator"
+  },{
+    "logos" : [ {
+      "logoUrl" : ".https://sendloop.com/images/logos/sendloop-logo-5.png",
+      "name" : "Sendloop",
+      "url" : "https://sendloop.com/images/logos/sendloop-logo-5.png"
+    } ],
+    "title" : "Mail Provider"
   } ],
   "schedule" : {
     "2018-11-04" : {
@@ -545,38 +543,121 @@
     }
   },
   "speakers" : {
-    "GDGIstanbul" :{
-      "bio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
-      "company" : "GDG Istanbul",
-      "companyLogo" : "/images/logos/gdg_istanbul_logo.png",
-      "country" : "Turkey",
+    "KevinNelson" :{
+      "bio" : "Kevin Nelson is a Google Cloud Developer Advocate focused on storage and machine learning. Before joining the Cloud team, he was a lead Product Manager on Google Drive. Prior to joining Google in 2014, Kevin was a successful entrepreneur with over 20 years of experience building and managing software and SAAS companies. In addition to working at Google, Kevin sits on the board of Quantum Scientific Imaging, a company he co-founded which designs and manufactures scientific CCD cameras for applications that require superior image performance such as astronomical and medical imaging. In his free time, Kevin is an avid sailor and history buff who loves stargazing and studying the Age of Exploration. Mr. Nelson received a degree in Information and Computer Science from the University of California at Irvine.",
+      "company" : "Google Cloud",
+      "companyLogoUrl" : "https://devfest.istanbul/images/logos/google.svg",
+      "country" : "Los Angeles",
       "featured" : true,
-      "name" : "GDG Istanbul",
-      "photoUrl" : "/images/logos/icon.png",
-      "shortBio" : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.",
+      "name" : "Kevin Nelson",
+      "title": "Architect Advocate",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/kbnelson%20headshot%202018%20BW.jpg?alt=media&token=285e3300-c282-499c-89c7-987a8269b092",
+      "shortBio" : "Kevin Nelson is a Google Cloud Developer Advocate focused on storage and machine learning. ",
       "socials" : [ {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/company/2943205/",
+        "link" : "https://www.linkedin.com/in/kevinnelson/",
         "name" : "Linkedin"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/GDGIstanbul",
+        "link" : "https://twitter.com/knelsoncloud",
+        "name" : "Twitter"
+      }],
+      "tags" : [ "Machine Learning","AI" ]
+    },
+    "SaidTahsinDane" :{
+      "name" : "Said Tahsin Dane",
+      "title": "Android Lead Engineer",
+      "company" : "Wayfair",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/tahsin.jpeg?alt=media&token=7feaaa88-6317-43d8-a309-289583728db5",
+      "bio" :"Expert on Android. Android team lead at Wayfair, Berlin. Very passionate developer who tries to live on the bleeding edge of technology and is very interested in mobile UX.",
+      "shortBio":"Expert on Android. Android team lead at Wayfair, Berlin.",
+      "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/0/0a/Wayfair_logo_with_tagline.png",
+      "country" : "Berlin",
+      "featured" : true,
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/tasomaniac",
+        "name" : "Twitter"
+      }],
+      "tags" : [ "Generic Software Engineering" ]
+    },
+    "MandyChan" :{
+      "name" : "Mandy Chan Mandy",
+      "title": "Developer Community Manager",
+      "company" : "Google",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/virtual-p-46482.appspot.com/o/Mandy%20Chan.png?alt=media&token=622fbf98-eb81-4d46-a129-23f5acc6773f",
+      "bio": "Mandy Chan is the Developer Community Manager on the Actions On Google team, where she is responsible for creating practical content for the developer community. At I/O 2018, Mandy and the team published two Codelabs to guide developers on how to build Actions. Since then, the Codelabs have trained thousands of new developers from around the world. She is a frequent speaker at different developer conferences, including the Grace Hopper Conference in 2017 and 2018. She was recently invited as a guest on the Google Cloud Platform Podcast. You can hear more about her recent activities on http://bit.ly/gcp-mandy. Prior to Google, she made many early contributions to the voice community. One of her most frequently downloaded open source projects is called SSML Builder, which creates well-formed Speech Synthesis Markup Language without worrying about string concatenation. When she is not pondering how to improve the developer experience, you can find her programming, hiking in the mountains, or learning new magic tricks. You can learn more about Mandy by following her on Twitter (@MandyChanNYC)!",
+      "shortBio":"Mandy Chan is the Developer Community Manager on the Actions On Google team, where she is responsible for creating practical content for the developer community",
+      "companyLogoUrl" : "https://devfest.istanbul/images/logos/google.svg",
+      "country" : "San Francisco, California",
+      "featured" : true,
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mandychannyc?lang=en",
+        "name" : "Twitter"
+      }],
+      "tags" : [ "Assistant" ]
+    },
+    "MeteAtamel" :{
+      "name" : "Mete Atamel",
+      "title": "Developer Advocate",
+      "company" : "Google",
+      "photoUrl" : "https://meteatamel.files.wordpress.com/2018/04/atamel-5-01.jpeg",
+      "bio" : "Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. As a long-time Java and C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from the island of Cyprus, he currently lives in Greenwich of London, not too far away from the prime meridian.",
+      "shortBio":"Mete is a Developer Advocate at Google, focused on helping developers with Google Cloud. ",
+      "companyLogoUrl" : "https://devfest.istanbul/images/logos/google.svg",
+      "country" : "London, United Kingdom",
+      "featured" : true,
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/meteatamel",
         "name" : "Twitter"
       }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/GDGIstanbul/",
-        "name" : "Facebook"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/gdgistanbul/",
-        "name" : "Github"
-      }, {
         "icon" : "website",
-        "link" : "http://www.gdgistanbul.com/",
+        "link" : "https://meteatamel.wordpress.com/speaker-profile/",
         "name" : "Website"
-      } ],
-      "tags" : [ "Community" ]
+      }],
+      "tags" : [ "Cloud" ]
+    },
+    "EmilBayazitov" :{
+      "name" : "Emil Bayazitov",
+      "title": "Strategic Partnerships, Payments",
+      "company" : "Google",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/emil.jpg?alt=media&token=8117d91d-6fa9-4c7b-af10-22a31f2f60c9",
+      "bio" : "Extensive product marketing experience at Google (Google Ads, Google Play, Google+), business development in Payments (Google Pay). Currently doing Strategic Partnerships across EMEA for biggest online, offline merchants and transit. ",
+      "shortBio":"Extensive product marketing experience at Google (Google Ads, Google Play, Google+), business development in Payments (Google Pay).  ",
+      "companyLogoUrl" : "https://devfest.istanbul/images/logos/google.svg",
+      "country" : "London, United Kingdom",
+      "featured" : true,
+      "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/ebayazitov/",
+        "name" : "Linkedin"
+      }],
+      "tags" : [ "Payments" ]
+    },
+    "KunalPatel" :{
+      "name" : "Kunal Patel",
+      "title": "Senior Interaction Designer",
+      "company" : "Material Design, Google",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/cloudfunctioncode.appspot.com/o/kunaldpatel_headshot.JPG?alt=media&token=c6d117c0-e292-4187-a17e-a927f038a5a9",
+      "bio":"Kunal Patel is a Senior Interaction Designer on the Material Design team at Google, focused on navigation, accessible design, and systems outreach. He brings a cross-discipline, design-build methodology to his work thanks to past experiences in architecture and product management.",
+      "shortBio":"Kunal Patel is a Senior Interaction Designer on the Material Design team at Google, focused on navigation, accessible design, and systems outreach.",
+      "companyLogoUrl" : "https://devfest.istanbul/images/logos/google.svg",
+      "country" : "Orlando, Florida Area",
+      "featured" : true,
+      "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/kunaldpatel",
+        "name" : "Linkedin"
+      },{
+        "icon" : "twitter",
+        "link" : "https://www.twitter.com/kunaldpatel",
+        "name" : "Twitter"
+      }],
+      "tags" : [ "Design" ]
     }
+
   },
   "team" : [ {
     "members" : [ {
@@ -879,31 +960,31 @@
     "title" : "Event Team"
   } ],
   "tickets" : [ {
-    "available" : false,
+    "available" : true,
     "currency" : "₺",
     "ends" : "Nov 2",
     "inDemand" : false,
-    "info" : "Coming Soon",
+    "info" : "Student",
     "name" : "Student",
     "price" : 50,
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
-    "starts" : "Sep 1",
-    "url" : "commingsoon"
+    "starts" : "Sep 12",
+    "url" : "http://www.biletix.com/etkinlik/VR501/ISTANBUL/tr"
   }, {
-    "available" : false,
+    "available" : true,
     "currency" : "₺",
     "ends" : "Nov 2",
     "inDemand" : false,
-    "info" : "Coming Soon",
+    "info" : "Devfest",
     "name" : "Regular",
     "price" : 100,
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
-    "starts" : "Sep 1",
-    "url" : "commingsoon"
+    "starts" : "Sep 12",
+    "url" : "http://www.biletix.com/etkinlik/VR501/ISTANBUL/tr"
   } ],
   "triggers" : {
     "images" : false
